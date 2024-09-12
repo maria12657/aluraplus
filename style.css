@@ -23,6 +23,8 @@ body {
     background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container {
@@ -44,7 +46,8 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal);
     padding: 1em;
-    color: var(--branco-principal)
+    color: var(--branco-principal);
+    margin: 1em 0;
 }
 
 .container__aviso {
