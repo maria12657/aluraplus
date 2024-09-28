@@ -70,7 +70,14 @@ body {
 }
 
 .secundario{
+    align-items:center;
+    margin: 0 10em;
+    text-align: left;
+
+}
+.secundario__imagem{
     width: 80%;
+
 }
 
 .descricao__titulo{
